@@ -13,7 +13,7 @@
 
 <div class="container">
 <form method="post" action="Servlet">
-    <h1 class="d-flex justify-content-center">Calculadora</h1>
+    <h1 class="d-flex justify-content-center">Calculadora Servlet</h1>
     
 <br>
 
@@ -39,7 +39,7 @@
 <br>
       <div class="input-form d-flex justify-content-center space-between">
            <button type="reset" class="btn btn-outline-dark" style="margin-right: 10px">LIMPAR</button>
-           <button type="submit" class="btn btn-outline-dark">ENCONTRE O RESULDO</button>
+           <button type="submit" class="btn btn-outline-dark">ENCONTRE O RESULTADO</button>
       </div>
 </form>
 </div>
